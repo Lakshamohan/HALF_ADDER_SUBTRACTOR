@@ -59,6 +59,7 @@ Developed by: RegisterNumber:212224220050
 ![Screenshot 2025-04-24 191811](https://github.com/user-attachments/assets/44981d4f-e888-431b-8de7-9dd280f0f75d)
 
 **Output/TIMING Waveform**
+
 Half adder
 ![Screenshot 2025-04-24 192130](https://github.com/user-attachments/assets/abdf985c-1c49-4074-9d00-8021062f8a5f)
 Half subtractor
