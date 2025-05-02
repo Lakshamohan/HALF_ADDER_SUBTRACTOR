@@ -20,7 +20,6 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 
 ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
 
-Figure -01 HALF ADDER
 
 **Half Subtractor**
 
@@ -31,11 +30,12 @@ Borrow = A’B
 
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
-Figure -02 HALF Subtractor
 
 **Truthtable**
-![Screenshot 2025-05-02 132612](https://github.com/user-attachments/assets/8855ddc1-32b0-4f96-894d-a1f4248d7a27)
-![Screenshot 2025-05-02 132622](https://github.com/user-attachments/assets/8d29951e-10d7-44d8-bd5a-dc0df410722f)
+
+![Screenshot 2025-05-02 132612](https://github.com/user-attachments/assets/78cb28ce-5c63-46d3-873f-4587563fc0fa)
+
+![Screenshot 2025-05-02 132622](https://github.com/user-attachments/assets/11a516da-00dd-489b-be38-4a0947e15356)
 
 **Procedure**
 
