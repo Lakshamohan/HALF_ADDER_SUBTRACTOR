@@ -58,6 +58,7 @@ Developed by: RegisterNumber:212224220050
 ![Screenshot 2025-04-24 191750](https://github.com/user-attachments/assets/f7e5b737-fb82-489d-a8ba-bb773be66ab3)
 
 **RTL Schematic**
+
 ![Screenshot 2025-04-24 191811](https://github.com/user-attachments/assets/44981d4f-e888-431b-8de7-9dd280f0f75d)
 
 **Output/TIMING Waveform**
